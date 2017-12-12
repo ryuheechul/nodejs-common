@@ -56,7 +56,7 @@
     "methmeth": "^1.1.0",
     "modelo": "^4.2.0",
     "request": "^2.79.0",
-    "retry-request": "^3.0.0",
+    "retry-request": "^3.4.0",
     "split-array-stream": "^1.0.0",
     "stream-events": "^1.0.1",
     "string-format-obj": "^1.1.0",
